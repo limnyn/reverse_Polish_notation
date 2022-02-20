@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse_Polish_notation", "reverse_Polish_notation\reverse_Polish_notation.csproj", "{4ADB6643-9A0C-437A-B99C-78EAD55FD20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ADB6643-9A0C-437A-B99C-78EAD55FD20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADB6643-9A0C-437A-B99C-78EAD55FD20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADB6643-9A0C-437A-B99C-78EAD55FD20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADB6643-9A0C-437A-B99C-78EAD55FD20A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {376243FC-F829-4B48-8FE7-F681E194B618}
+	EndGlobalSection
+EndGlobal
